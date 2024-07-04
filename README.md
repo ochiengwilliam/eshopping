@@ -11,3 +11,12 @@
 ![shopping-product](https://github.com/ochiengwilliam/eshopping/assets/88856939/57e20c79-c0a1-4ad6-8dc9-513577dc91a2)
 
 ![shopping-cart](https://github.com/ochiengwilliam/eshopping/assets/88856939/cf545784-ee2f-440b-898b-c5dbcef1574b)
+
+
+
+![shopping-select-address](https://github.com/ochiengwilliam/eshopping/assets/88856939/f474109b-cf9d-4f15-b62c-51cdad93264a)
+
+![shopping-choose-pay](https://github.com/ochiengwilliam/eshop
+
+![shopping-order-success](https://github.com/ochiengwilliam/eshopping/assets/88856939/76c64c1c-9081-4241-b83e-03da97d41289)
+ping/assets/88856939/a08689b3-b24e-45ea-9836-1bc43b629bb4)
