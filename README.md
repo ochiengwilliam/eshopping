@@ -9,3 +9,5 @@
 ![shopping-home-customer](https://github.com/ochiengwilliam/eshopping/assets/88856939/85128b48-c191-4496-9565-e4e6fc0f0143)
 
 ![shopping-product](https://github.com/ochiengwilliam/eshopping/assets/88856939/57e20c79-c0a1-4ad6-8dc9-513577dc91a2)
+
+![shopping-cart](https://github.com/ochiengwilliam/eshopping/assets/88856939/cf545784-ee2f-440b-898b-c5dbcef1574b)
